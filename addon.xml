@@ -1,0 +1,9 @@
+<addon id="plugin.video.myacestreamaddon" name="Deportes" version="0.1" provider-name="Antonio">
+    <extension point="xbmc.python.pluginsource" library="default.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Deportes TV</summary>
+        <description lang="en">Deportes</description>
+        <platform>all</platform>
+        <language>python</language>
+    </extension>
+</addon>
